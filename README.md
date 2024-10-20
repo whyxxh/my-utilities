@@ -4,7 +4,7 @@ small personal utilities to better my life
 
 **for now it includes:**
 - a markdown to pdf converter
-- and a font switcher for the kitty terminal **not finished**
+- and a font switcher for the kitty terminal. **not finished**
 
 the font switcher switches only the main font to the regular version of the desired font for now
 
