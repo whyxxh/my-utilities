@@ -1,6 +1,6 @@
 # my utilities
 
-small personal utilities to better my life
+small personal utilities to better _**my**_ life
 
 **for now it includes:**
 - a markdown to pdf converter
