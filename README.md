@@ -14,3 +14,4 @@ the font switcher switches only the main font to the regular version of the desi
 - add so it doesn't quit the program when you choose a font but so it prompts you with another type of font
 - make it so you can make templates
 - ? maybe rewrite it in python
+  -> codeuriii
